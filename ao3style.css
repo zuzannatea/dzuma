@@ -4,7 +4,9 @@
 fieldset fieldset {
   background: none;
 }
-
+body{
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'GNU Unifont', Verdana, Helvetica, sans-serif;
+}
 #heading{
     text-align: center;
 }
