@@ -20,8 +20,11 @@ fieldset fieldset {
 #rozdzial:visited{
     color: white;
 }
+
 p{
-    font-size: 15px;
+    font-size: 20px;
+    line-height: 1.5;
+
 }
 
 body,
